@@ -69,6 +69,8 @@ If you don’t want to train the model from yourself, you can directly download 
 
 - https://huggingface.co/Aaditya456/Banana-Disease-Classification/blob/main/banana_disease_densenet121.keras
 
+After downloading the model place the model in the same repository.
+
 ## Example Prediction (Gradio UI)
 
 **Banana Leaf Disease Classifier**
