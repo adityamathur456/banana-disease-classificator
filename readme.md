@@ -36,34 +36,44 @@ The model can classify banana leaves into the following categories:
 ## 🛠️ Setup & Installation
 
 ### 1. Clone Repository
+
 ```bash
 git clone https://github.com/your-username/banana-disease-classificator.git
 cd banana-disease-classificator
 ```
 
 ### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Training the Model
+
 - If you want to train the model from yourself run the file:
+
 ```bash
 python banana_disease.py
 ```
 
 ### 4. Run Gradio App
+
 ```bash
 python app.py
 ```
 - the app running on http://127.0.0.1:7860/
 
 ## 📥 Pre-trained Model
+
 If you don’t want to train the model from yourself, you can directly download the pre-trained model from my Hugging Face id:
 
 - https://huggingface.co/Aaditya456/Banana-Disease-Classification/blob/main/banana_disease_densenet121.keras
 
 ## Example Prediction (Gradio UI)
-- Banana Leaf Disease Classifier
-- Upload a banana leaf image, and our AI will diagnose the disease
-[Banana Leaf Disease Classifier](gradio_ui.png)
+
+**Banana Leaf Disease Classifier**
+
+Upload a banana leaf image, and our AI model will diagnose the disease.
+
+![Banana Leaf Disease Classifier](gradio_ui.png)
+
