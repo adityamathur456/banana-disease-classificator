@@ -5,7 +5,16 @@ It provides a **Gradio interface** where users can upload banana leaf images, an
 
 ---
 
-  
+## 🦠 Disease Classes
+The model can classify banana leaves into the following categories:
+
+1. Banana Black Sigatoka Disease  
+2. Banana Bract Mosaic Virus Disease  
+3. Banana Healthy Leaf  
+4. Banana Insect Pest Disease  
+5. Banana Moko Disease  
+6. Banana Panama Disease  
+7. Banana Yellow Sigatoka Disease
 
 ---
 
