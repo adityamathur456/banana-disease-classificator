@@ -67,7 +67,7 @@ python app.py
 
 If you don’t want to train the model from yourself, you can directly download the pre-trained model from my Hugging Face id:
 
-- https://huggingface.co/Aaditya456/Banana-Disease-Classification/blob/main/banana_disease_densenet121.keras
+- https://huggingface.co/AadityaMathurX/Banana-Disease-Classification
 
 After downloading the model place the model in the same repository.
 
