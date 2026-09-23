@@ -38,7 +38,7 @@ The model can classify banana leaves into the following categories:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/banana-disease-classificator.git
+git clone https://github.com/adityamathur456/banana-disease-classificator.git
 cd banana-disease-classificator
 ```
 
